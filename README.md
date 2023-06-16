@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Chaitanya Rao</h1>
-<h3 align="center">I am a sophomore pursuing my Bachelor's in Computer Science & Engineering 🎓</h3>
+<h3 align="center">I am a final year studnet pursuing my Bachelor's in Computer Science & Engineering 🎓</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chaitanya21-bit&label=Profile%20views&color=0e75b6&style=flat" alt="chaitanya21-bit" /> </p>
 
-- 🔭 I’m currently working on **game development with unity**
+- 🔭 I’m currently working on **Getting as much experience as I can**
 
 - 🌱 I’m currently learning **everything😂**
 
